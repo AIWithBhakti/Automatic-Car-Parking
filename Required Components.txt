@@ -1,0 +1,7 @@
+Required Components:
+ 1.Arduino UNO(virtual, in Tinkercad)
+ 2.Breadboard (virtual)
+ 3.Connecting Wires
+ 4.Servo motor
+ 5.Ultrasonic sensor
+ 6.LCD Display
